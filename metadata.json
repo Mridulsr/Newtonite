@@ -1,0 +1,6 @@
+{
+  "name": "Newtonite Operations Command System",
+  "description": "Production-grade operational work coordination platform featuring strict RBAC, optimistic concurrency control, race-condition prevention, idempotent actions, and full auditability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
